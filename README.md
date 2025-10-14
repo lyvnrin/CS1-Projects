@@ -14,8 +14,7 @@ This repo contains a collection of my work across different modules during my fi
 
 ## 🚀 Purpose
 
-This repository serves as a **portfolio of my first-year work**, showcasing my learning journey in programming, web development, and computational mathematics.  
-It highlights not only the solutions but also my understanding of **problem-solving, algorithms, and design concepts**.
+This repository serves as a **portfolio of my first-year work**, showcasing my learning journey in programming, web development, and computational mathematics. It highlights not only the solutions but also my understanding of **problem-solving, algorithms, and design concepts**.
 
 ## 📝 How to Explore
 
