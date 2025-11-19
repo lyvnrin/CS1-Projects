@@ -1,6 +1,4 @@
 # 1st-Year CS Projects
-
-Welcome to my **First-year computer science projects repository**!  
 This repo contains a collection of my work across different modules during my first year of university. Each module folder contains main courseworks and some mini exercises.
 
 ## 📂 Modules Overview
